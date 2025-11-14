@@ -4,8 +4,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.imgur.com/Eqy6dM9.png" alt="Image" width="550" height="800">
+  <a href="https://github.com/SunSinD/Projet1_Singh_Sunpreet?tab=readme-ov-file#readme-top">
+    <img src="https://i.imgur.com/Eqy6dM9.png" alt="Image" width="600" height="850">
   </a>
 
   <h3 align="center">Projet 1</h4>
