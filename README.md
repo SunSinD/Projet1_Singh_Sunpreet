@@ -4,11 +4,11 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/SunSinD/Projet1_Singh_Sunpreet?tab=readme-ov-file">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="[images/logo.png](https://i.imgur.com/f3ICKNO.jpeg)" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Projet 1</h3>
+  <h3 align="center">Projet 1</h4>
 
   <p align="center">
     de 10/28/2025 à 11/13/2025, Projet 1 pour 243-33A-MO : Microcontrôleur 2
@@ -32,7 +32,7 @@ Validation post-assemblage et contrôle qualité : Après l'assemblage d'un appa
 
 ### Fait Avec
 
-* [![C++]][C++-url]
+* [![C++.io]][C++-url]
 
 <p align="right">(<a href="#readme-top"> Retour en Haut </a>)</p>
 
@@ -77,4 +77,8 @@ Distribué sous licence Unlicense. Voir `LICENSE.txt` pour plus d'informations.
 
 <p align="right">(<a href="#readme-top"> Retour en Haut </a>)</p>
 
+[product-screenshot]: https://www.collegesinstitutes.ca/wp-content/uploads/2022/10/montmorency.png
+[C++.io]: https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white
 [C++-url]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
