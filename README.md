@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.imgur.com/Eqy6dM9.png" alt="Image" width="700" height="800">
+    <img src="https://i.imgur.com/Eqy6dM9.png" alt="Image" width="600" height="800">
   </a>
 
   <h3 align="center">Projet 1</h4>
